@@ -1,0 +1,24 @@
+{
+  "name": "unittests_in_js",
+  "version": "1.0.0",
+  "description": "A project for learning the basics of unittests in Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sapencio/alx-backend-javascript.git"
+  },
+  "author": "Tibebe Solomon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sapencio/alx-backend-javascript/issues"
+  },
+  "homepage": "https://github.com/sapencio/alx-backend-javascript/blob/main/0x06-unittests_in_js/README.md",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "sinon": "^15.0.1"
+  }
+}
